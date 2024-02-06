@@ -1,4 +1,4 @@
-// Variáveis para armazenar o nome e a quantidade de experiência (XP) do herói
+// Variáveis para armazenar o nome e a quantidade de experiência (XP) do heróis
 var nome = "Super Mario";
 var xp = 5000;
 
